@@ -1,4 +1,6 @@
 # googlebooksearch
+* https://git.heroku.com/googlebooksearcher.git
+* https://github.com/cchin1/googlebooksearch
 
 # Overivew
 This is a React-based Google Books Search app. It involves creating React components, working with helper/util functions, and utilizing React lifecycle methods to query and display books based on user searches. This app also uses Node, Express and MongoDB so that users can save books to review or purchase later.
